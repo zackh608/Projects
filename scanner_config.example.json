@@ -1,0 +1,25 @@
+{
+  "searches": [
+    {
+      "name": "Pokemon PSA 10",
+      "rss_url": "https://www.ebay.com/sch/i.html?_nkw=pokemon+psa+10&_sop=10&_rss=1",
+      "max_price": 120.0,
+      "required_terms": ["psa", "10"],
+      "exclude_terms": ["proxy", "reprint", "custom"]
+    },
+    {
+      "name": "Silver Coins",
+      "rss_url": "https://www.ebay.com/sch/i.html?_nkw=morgan+silver+dollar&_sop=10&_rss=1",
+      "max_price": 90.0,
+      "required_terms": ["morgan"],
+      "exclude_terms": ["copy", "replica"]
+    },
+    {
+      "name": "Jazz Vinyl First Press",
+      "rss_url": "https://www.ebay.com/sch/i.html?_nkw=blue+note+rvg+mono&_sop=10&_rss=1",
+      "max_price": 180.0,
+      "required_terms": ["rvg"],
+      "exclude_terms": ["reissue", "bootleg"]
+    }
+  ]
+}
